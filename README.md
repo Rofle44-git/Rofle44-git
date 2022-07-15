@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rofle44-git
-- 👀 I’m interested in Python/Tkinter/Mindustry
-- 🌱 I’m currently learning Python/Tkinter
+- 👀 I’m interested in GameDevelopment/Rust
+- 🌱 I’m currently learning Godot/C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
